@@ -5,4 +5,4 @@ The model used is the VGG16 by K. Simonyan and A. Zisserman of the University of
 
 Partly based on [Model and pre-trained parameters for VGG16 in TensorFlow](http://www.cs.toronto.edu/~frossard/post/vgg16/#files).
 
-Dataset leedsbutterfly (http://www.josiahwang.com/dataset/leedsbutterfly/)
+Dataset [leedsbutterfly] (http://www.josiahwang.com/dataset/leedsbutterfly/)
